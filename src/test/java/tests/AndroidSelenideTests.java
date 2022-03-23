@@ -16,7 +16,6 @@ public class AndroidSelenideTests extends TestBase {
     void searchTest() {
         step("Нажать кнопку Skip", () -> {
             $(MobileBy.id("org.wikipedia.alpha:id/fragment_onboarding_skip_button")).click();
-            $(MobileBy.id("org.wikipedia.alpha:id/search_container")).click();
         });
 
         step("Поиск по типу", () -> {
