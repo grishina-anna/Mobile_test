@@ -29,7 +29,7 @@ public class BrowserstackMobileDriver implements WebDriverProvider {
             caps.setCapability("browserstack.user", user);
             caps.setCapability("browserstack.key", key);
 
-        caps.setCapability("app", "bs://2dd8632425e87ca33787c4ef2236cea360248fb8");
+            caps.setCapability("app", app);
 
         caps.setCapability("device", "Google Pixel 3");
         caps.setCapability("os_version", "9.0");
