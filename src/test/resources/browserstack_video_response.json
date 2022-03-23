@@ -22,7 +22,7 @@
     "appium_logs_url": "https://api.browserstack.com/app-automate/builds/d17fff5ed0ef85444e3d7c3af67789b94dd822da/sessions/9785e6db7ddbb5e9e6ff679737a49a8e2f159f0a/appiumlogs",
     "device_logs_url": "https://api.browserstack.com/app-automate/builds/d17fff5ed0ef85444e3d7c3af67789b94dd822da/sessions/9785e6db7ddbb5e9e6ff679737a49a8e2f159f0a/devicelogs",
     "app_details": {
-      "app_url": "bs://c700ce60cf13ae8ed97705a55b8e022f13c5827c",
+      "app_url": "bs://2dd8632425e87ca33787c4ef2236cea360248fb8",
       "app_name": "org.wikipedia.alpha",
       "app_version": "2.5.194-alpha-2017-05-30",
       "app_custom_id": null,
