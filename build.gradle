@@ -34,6 +34,7 @@ dependencies {
             "com.codeborne:selenide:$selenideVersion",
             "io.qameta.allure:allure-selenide:$allureVersion",
             "io.appium:java-client:$appiumVersion",
+            "org.aeonbits.owner:owner:1.0.4",
             "io.rest-assured:rest-assured:4.5.1",
             "org.junit.jupiter:junit-jupiter-api:$junitVersion")
     testRuntimeOnly(
